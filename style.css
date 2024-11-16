@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+li{
+list-style:none
+}
+:root {
+    --textColor:red;
+    --dualColor:linear-gradient(red, yellow);
+    --bgColor:green;
+    --fontOne:1.4rem;
+    --fontTwo: 1rem;
+}
